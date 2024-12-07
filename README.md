@@ -71,19 +71,31 @@ Register Number:24900283.
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
+```
+
 8:3 ENCODER.
+
+```
 
 ![ENCODER](https://github.com/user-attachments/assets/637d41ba-4815-4090-84ac-f48c2b284ff1)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
+```
+
 8:3 ENCODER.
+
+```
 ![ENCODER (2)](https://github.com/user-attachments/assets/53b2fa56-23d7-4fe2-806e-0f0597d633e0)
 
 **RESULTS**
+
+```
+
 Thus the given the 8:3 encoder are implemented using and their operations are verified
 using Verilog programming.
 
+```
 
 
 
