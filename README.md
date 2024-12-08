@@ -92,7 +92,7 @@ Register Number:24900283.
 
 ```
 
-Thus the given the 8:3 encoder are implemented using and their operations are verified
+Thus the given 8:3 encoder are implemented and their operations are verified
 using Verilog programming.
 
 ```
